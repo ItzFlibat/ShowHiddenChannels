@@ -15,7 +15,7 @@ The original plugin created by [@rauenzi](https://github.com/rauenzi/) for Bette
 - Enjoy the plugin!
 
 ## Preview
-![image](https://user-images.githubusercontent.com/72283993/230760104-710fd4b3-72b4-49d7-b2de-9357d3f9549e.png)
+![image](https://github.com/user-attachments/assets/92a1e4c7-84f4-4501-becd-3663fd616989)
 
 ## How can I support this project?
 You can support me by following me on GitHub, starring this repository, forking it, sharing it, and/or joining my [Discord server](https://discord.gg/RFSYyCU) for free.
