@@ -4,6 +4,9 @@ ShowHiddenChannels is a plugin for [BetterDiscord](https://betterdiscord.app/) t
 
 The original plugin created by [@rauenzi](https://github.com/rauenzi/) for BetterDiscord, which allowed users to view hidden channels within a Discord server, was discontinued and removed from the official BetterDiscordAddons repository. In response to this, a new plugin was created to fill the void and provide users with similar functionality. With this new plugin, BetterDiscord users can once again access important information about hidden channels within their Discord servers.
 
+### Usage Warning
+Discord has started working on an experimental feature that will hide private channels on the server side, so plugins like this will no longer be functional.
+
 ## How to Install
 - Open [this link](https://raw.githubusercontent.com/ItzFlibat/ShowHiddenChannels/main/ShowHiddenChannels.plugin.js) to access the raw plugin file.
 - Right-click on the new page that opens and select "Save As..." to save the plugin file to your computer.
